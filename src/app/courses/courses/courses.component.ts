@@ -9,7 +9,7 @@ import { Course } from '../model/course';
 export class CoursesComponent {
 
   courses: Course[] = [
-    {_id: '1', name: 'Angular', category: 'Front-End'}
+    {_id: '1', name: 'Angular', category: 'Front-End  '}
   ];
   displayedColumns = ['name', 'category'];
 }
