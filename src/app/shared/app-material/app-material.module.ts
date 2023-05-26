@@ -10,7 +10,8 @@ import { MatToolbarModule } from '@angular/material/toolbar';
   exports: [
     MatCardModule,
     MatTableModule,
-    MatToolbarModule
+    MatToolbarModule,
+
   ]
 })
 export class AppMaterialModule { }
